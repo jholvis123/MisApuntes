@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4d9c873c8cfa5c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9944aa34aa351983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9308201beb21f14c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9926d9e5a27b76ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "144e1e6cad926f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3259082270f8f46d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "54bd4cc4959188c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0c36578b56f7d374",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91693bbe2203e42b",
+    "type": "split",
+    "children": [
+      {
+        "id": "734facd735afd6fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f402eae112a3c64e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a Vulnerabilidades.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Introducción a Vulnerabilidades"
+            }
+          },
+          {
+            "id": "90f7efdfa990fe6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a Vulnerabilidades.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Introducción a Vulnerabilidades"
+            }
+          },
+          {
+            "id": "6478abb8064551c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "342d0d04d17f1985",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción a Vulnerabilidades.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Introducción a Vulnerabilidades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "9308201beb21f14c",
+  "lastOpenFiles": [
+    "8.Maquinas Virtuales/Maquina MyExpenses.md",
+    "8.Maquinas Virtuales/DarkHole2.md",
+    "8.Maquinas Virtuales/DarkHole.md",
+    "8.Maquinas Virtuales",
+    "7.Ciberseguridad",
+    "7.Maquinas Virtuales/Maquina MyExpenses.md",
+    "7.Maquinas Virtuales/DarkHole2.md",
+    "7.Maquinas Virtuales/DarkHole.md",
+    "7.Maquinas Virtuales",
+    "6.Prácticas y Metodologías de Desarrollo",
+    "5.Arquitecturas de Software",
+    "4.Patrones de Diseño",
+    "3.Principios de Desarrollo",
+    "2.Paradigmas de Programación",
+    "1.PilaresDeLaProgramcion",
+    "Programacion/Python/python-principiantes.md",
+    "1.Programacion/Python/python-principiantes.md",
+    "1.Programacion/Python/python-avanzado.md",
+    "1.Programacion/Python/python-intermedio.md",
+    "1.Programacion/Bash/Bash_Principiantes.md",
+    "1.Programacion/Bash/Bash_Intermedio.md",
+    "1.Programacion/Bash/Bash_Avanzado.md",
+    "1.Programacion/Python",
+    "README.md",
+    "Programacion/Python/python-avanzado.md",
+    "Programacion/Python/python-intermedio.md",
+    "Programacion/Bash/Bash_Avanzado.md",
+    "Introducción a Vulnerabilidades.md",
+    "Programacion/Bash/Bash_Principiantes.md",
+    "Programacion/Bash_Intermedio.md",
+    "Programacion/Bash/Bash_Intermedio.md",
+    "Programacion/Bash_Avanzado.md",
+    "Programacion/Bash_Principiantes.md",
+    "Maquinas Virtuales/DarkHole.md",
+    "Maquinas Virtuales/Maquina MyExpenses.md",
+    "Pasted.md",
+    "Pasted image 20251009221239.png",
+    "Pasted image 20251010131748.png",
+    "Pasted image 20251010131339.png",
+    "Pasted image 20251010011828.png",
+    "Pasted image 20251010011559.png",
+    "Pasted image 20251010011150.png",
+    "Pasted image 20251010010911.png",
+    "Pasted image 20251010010846.png",
+    "Pasted image 20251010005856.png",
+    "Pasted image 20251010005120.png"
+  ]
+}
