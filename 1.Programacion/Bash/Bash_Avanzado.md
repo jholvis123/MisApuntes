@@ -889,6 +889,6 @@ Con esto ya puedo hacer scripts realmente avanzados que:
 
 ---
 **Mis apuntes de:** Elvis  
-**Fecha:** 13 de octubre de 2025  
+**Fecha:** 15 de octubre de 2025  
 **Nivel:** Avanzado  
 **Tiempo para dominarlo:** 6+ meses practicando
